@@ -6,3 +6,4 @@ function ProfileCard({ name, role }) {
     </>
   );
 }
+export default ProfileCard;
